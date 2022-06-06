@@ -4,7 +4,7 @@
 //
 //  Created by Redghy on 5/28/22.
 //
-
+//adding this in the future
 struct K {
     static let mainSegue = "GoToMain"
     static let cellIdentifier = "ReusableCell"
